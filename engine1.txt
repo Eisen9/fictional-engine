@@ -3,3 +3,8 @@ Engine1 started
 Log1: AAA
 Log2: BBB
 
+here are the new testing props:
+
+* Test thrusters 
+* Test Distortion errors
+
