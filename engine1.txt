@@ -1,1 +1,5 @@
 Engine1 started
+
+Log1: AAA
+Log2: BBB
+
